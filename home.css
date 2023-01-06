@@ -1,0 +1,19 @@
+.nav-link:hover{
+    opacity: 0.3;
+    background-color: black;
+
+   
+
+}
+.nav-link:active{
+    opacity: 0.5;
+}
+.nav-link{
+    font-size: 30px;
+ 
+}
+.img-fluid:hover {
+    padding-left:2em;
+    padding-bottom:1em;
+    bottom: 5%;
+}
